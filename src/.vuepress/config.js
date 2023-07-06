@@ -1,5 +1,7 @@
 
 module.exports = {
+  dest: 'docs', 
+  base: '/Taller-SO-OK/',
   title: 'Taller de sistemas operativos',
   description: 'Contenido digital de la asignatura Taller de sistemas operativos',
 
